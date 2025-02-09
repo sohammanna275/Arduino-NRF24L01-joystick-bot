@@ -6,7 +6,7 @@
 // NRF24L01 Pin Definitions
 #define CE_PIN 7
 #define CSN_PIN 8
-
+/// connect sck -13 mosi-11 miso-12 
 // buttonstate
 int buttonstate;
 // Joystick Pin Definitions
