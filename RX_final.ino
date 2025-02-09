@@ -4,7 +4,7 @@
 // NRF24L01 Pin Definitions
 #define CE_PIN 7
 #define CSN_PIN 8
-
+/// connect sck-13 mosi-11 miso - 12
 // Front Motor Driver Pin Definitions
 #define FRONT_MOTOR_EN1 9   // Enable/PWM for front left motor
 #define FRONT_MOTOR_EN2 5   // Enable/PWM for front right motor
