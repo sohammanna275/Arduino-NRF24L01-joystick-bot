@@ -1,3 +1,5 @@
+///This is the Transmitter side code (transmits signals made by the movement of joystick) /// 
+
 #include <SPI.h>
 #include <RF24.h>
 
