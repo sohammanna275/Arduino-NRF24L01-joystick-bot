@@ -10,6 +10,7 @@
 // buttonstate
 int buttonstate;
 // Joystick Pin Definitions
+/// connect Vx to A0 and Vy to A1
 #define JOYSTICK_X A0    // X-axis of joystick
 #define JOYSTICK_Y A1    // Y-axis of joystick
 #define JOYSTICK_SW 2    // Joystick button/switch
